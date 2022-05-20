@@ -8,3 +8,4 @@ a.ALFA Veo correctamente los datos que suben mis compañeros.
 b.ALFA Los demas integrates ven correctamente los archivos que subo.
 c.BETA Los demas integrantes ven correctamente los archivos que subo.
 d.Nos comunicamos a través de Discord y WhatsApp
+e. la mejor forma de comunicarnos fue utilizando discord.
