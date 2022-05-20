@@ -1,2 +1,3 @@
 Suarez Brandon, IP 192.168.0.44, 10:00 a.m.
 Ferrero Valentin, IP 192.168.1.2, 10:06 a.m
+Navarrete Nicolas, 192.168.0.222 10:12 am
